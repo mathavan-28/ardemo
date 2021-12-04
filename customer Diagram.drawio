@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T10:12:31.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="0xTFvo85dpLDIfDxI7OJ" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T10:20:23.015Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="J2lurzDAKj8NeaPGmuLA" version="15.5.1" type="github">
   <diagram id="6JPCep872dIXSYOhOden" name="Page-1">
     <mxGraphModel dx="1298" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,6 +260,12 @@
         </mxCell>
         <mxCell id="a5xk4CFbIq2Gz5puKSW1-104" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="660" width="15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a5xk4CFbIq2Gz5puKSW1-144" value="Rabobank Privileged Account Management&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a5xk4CFbIq2Gz5puKSW1-145" value="[PAM]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="40" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
